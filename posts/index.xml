@@ -1,127 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo tranquilpeak theme</title>
+    <title>Posts on Vraciul urban</title>
     <link>https://vraciul-urban.ro/posts/</link>
-    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <description>Recent content in Posts on Vraciul urban</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://vraciul-urban.ro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vraciul-urban.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Tranquilpeak 0.5.2-BETA</title>
-      <link>https://vraciul-urban.ro/2015/06/welcome-to-tranquilpeak-0.5.2-beta/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Despre noi</title>
+      <link>https://vraciul-urban.ro/2021/10/despre-noi/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2015/06/welcome-to-tranquilpeak-0.5.2-beta/</guid>
-      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/10/despre-noi/</guid>
+      <description>&lt;p&gt;Sare cu cristale și plante tămăduitoare&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
-      <link>https://vraciul-urban.ro/2015/06/who-is-using-tranquilpeak-hugo-theme/</link>
-      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Busuioc</title>
+      <link>https://vraciul-urban.ro/2021/09/busuioc/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2015/06/who-is-using-tranquilpeak-hugo-theme/</guid>
-      <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/09/busuioc/</guid>
+      <description>&lt;p&gt;Busuiocul este foarte bogat în multe &lt;strong&gt;vitamine&lt;/strong&gt;, precum vit. A, C și K şi &lt;strong&gt;minerale&lt;/strong&gt; precum magneziu, calciu, mangan, fier și fosfor.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Elements showcase</title>
-      <link>https://vraciul-urban.ro/2015/05/elements-showcase/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <title>Cimbrișor</title>
+      <link>https://vraciul-urban.ro/2021/08/cimbri%C8%99or/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2015/05/elements-showcase/</guid>
-      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/08/cimbri%C8%99or/</guid>
+      <description>&lt;p&gt;Cimbrişorul este bogat în multe &lt;strong&gt;vitamine&lt;/strong&gt; precum vit. A şi B, C şi &lt;strong&gt;minerale&lt;/strong&gt; precum calciu, potasiu, fier.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Cover image showcase</title>
-      <link>https://vraciul-urban.ro/2015/05/cover-image-showcase/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      <title>Coriandru</title>
+      <link>https://vraciul-urban.ro/2021/07/coriandru/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2015/05/cover-image-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/07/coriandru/</guid>
+      <description>&lt;p&gt;Coriandrul este bogat în multe &lt;strong&gt;vitamine&lt;/strong&gt; precum vit. A, E, K, Complexul de vit.B și C şi &lt;strong&gt;minerale&lt;/strong&gt; precum potasiu, fosfor, calciu, cupru, zinc, magneziu, fier.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>highlighted code showcase</title>
-      <link>https://vraciul-urban.ro/2015/03/highlighted-code-showcase/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <title>Cuișoare</title>
+      <link>https://vraciul-urban.ro/2021/06/cui%C8%99oare/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2015/03/highlighted-code-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/06/cui%C8%99oare/</guid>
+      <description>&lt;p&gt;Cuișoarele sunt bogate în multe &lt;strong&gt;vitamine&lt;/strong&gt; precum vit. A, C, D, E, K, B6, B12, folat și niacină şi &lt;strong&gt;minerale&lt;/strong&gt; precum mangan, fier, fosfor, calciu, magneziu, zinc.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Tags plugins showcase</title>
-      <link>https://vraciul-urban.ro/2014/10/tags-plugins-showcase/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      <title>Dafin</title>
+      <link>https://vraciul-urban.ro/2021/05/dafin/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2014/10/tags-plugins-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/05/dafin/</guid>
+      <description>&lt;p&gt;Dafinul este bogat în multe &lt;strong&gt;vitamine&lt;/strong&gt; precum vit.A şi C, B6, B9 şi &lt;strong&gt;minerale&lt;/strong&gt; precum magneziu, calciu, mangan, potasiu, fier, cupru, zinc.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hidden social section showcase</title>
-      <link>https://vraciul-urban.ro/2014/08/hidden-social-section-showcase/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      <title>Lavandă</title>
+      <link>https://vraciul-urban.ro/2021/04/lavand%C4%83/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2014/08/hidden-social-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/04/lavand%C4%83/</guid>
+      <description>&lt;p&gt;S-a demonstrat ştiințific că Lavanda este optimă şi benefică în tratarea tensiunilor psihice, fiind totodată întrebuințată în medicina naturistă şi pentru ameliorarea numeroaselor afec țiuni, având un rol foarte bun ca: antibacterian, antifungic, calmant, curativ, echilibrant, revigorant, antianalgezic, cicatrizant, antidepresiv, imunostimulator, antiviral, antiseptic, antifungic, antiacneeic şi antipiretic (împotriva febrei).&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hidden tag section showcase</title>
-      <link>https://vraciul-urban.ro/2014/08/hidden-tag-section-showcase/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      <title>Nucșoara</title>
+      <link>https://vraciul-urban.ro/2021/03/nuc%C8%99oara/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2014/08/hidden-tag-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/03/nuc%C8%99oara/</guid>
+      <description>&lt;p&gt;Nucșoara este bogată în multe vitamine precum vit.A, B si C, B6 şi minerale precum magneziu, fosfor, fier, potasiu şi cupru.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hidden pagination showcase</title>
-      <link>https://vraciul-urban.ro/2014/08/hidden-pagination-showcase/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <title>Salvie</title>
+      <link>https://vraciul-urban.ro/2021/02/salvie/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2014/08/hidden-pagination-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/02/salvie/</guid>
+      <description>&lt;p&gt;Salvia conține un complex de &lt;strong&gt;vitamine&lt;/strong&gt;, printre care vitamina A, B, vitamina C și &lt;strong&gt;minerale&lt;/strong&gt; precum calciu, potasiu, magneziu, fier, zinc și sodiu, fiind un adevărat izvor de substanțe folositoare organismului.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Video integrations showcase</title>
-      <link>https://vraciul-urban.ro/2014/08/video-integrations-showcase/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <title>Schinduf</title>
+      <link>https://vraciul-urban.ro/2021/01/schinduf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vraciul-urban.ro/2014/08/video-integrations-showcase/</guid>
-      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>中文測試</title>
-      <link>https://vraciul-urban.ro/2013/10/chinese-test/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://vraciul-urban.ro/2013/10/chinese-test/</guid>
-      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Image gallery showcase</title>
-      <link>https://vraciul-urban.ro/2013/02/image-gallery-showcase/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://vraciul-urban.ro/2013/02/image-gallery-showcase/</guid>
-      <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>日本語テスト</title>
-      <link>https://vraciul-urban.ro/2013/01/japanese-test/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://vraciul-urban.ro/2013/01/japanese-test/</guid>
-      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
+      <guid>https://vraciul-urban.ro/2021/01/schinduf/</guid>
+      <description>&lt;p&gt;Schinduful este bogat în multe &lt;strong&gt;vitamine&lt;/strong&gt; precum vit.A, C, D, complexul de vit.B, și &lt;strong&gt;minerale&lt;/strong&gt; precum fier, fosfor, calciu, mangan, potasiu, sodiu, zinc, cupru, seleniu, magneziu.&lt;/p&gt;</description>
     </item>
     
   </channel>
